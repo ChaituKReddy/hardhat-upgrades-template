@@ -1,0 +1,3 @@
+PRIVATE_KEY = "your-wallet-private-key";
+MUMBAI_RPC_URL = "your-infura-api-key";
+ETHERSCAN_API_KEY = "your-etherscan=api-key";
